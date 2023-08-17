@@ -1,0 +1,13 @@
+.token
+*/node_modules/*
+*/.next/*
+myPythonEnv
+node_environ
+node_modules
+package*
+!package.json
+*.env
+migrate.json
+*/check_files/*
+*/check_files
+
